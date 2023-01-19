@@ -59,6 +59,7 @@ ul {
 
 .left-rightside {
     display: flex;
+    padding: 70px;
 }
 
 .hero {
@@ -117,3 +118,5 @@ p {
     /* display: flex; */
     /* flex-wrap: wrap; */
 }
+
+/* Third Section */
