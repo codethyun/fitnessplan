@@ -89,9 +89,8 @@ ul {
 .second-container {
     display: flex;
     flex-direction: column;
-    padding: 0 200px;
     align-items: center;
-    padding: 10px;
+    padding: 100px 200px;
 }
 
 p {
@@ -120,3 +119,31 @@ p {
 }
 
 /* Third Section */
+
+.third-container {
+    background: #E5E7EB;
+    padding: 100px 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.quotebox{
+    display: flex;
+    flex-direction: column;
+}
+
+.quote {
+    width: 450px;
+    font-size: 18px;
+    color: #1F2937;
+    font-style: italic;
+}
+
+#carlsagan {
+    font-size: 14px; 
+    font-weight: bold; 
+    align-self: flex-end;
+    margin: 5px;
+}
